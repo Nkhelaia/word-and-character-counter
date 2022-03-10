@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 70px;
+    margin-top: 50px;
+    color: wheat;
+}
+body{
+    background: #220680;
+    font-family: 'Praise', cursive;
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #220680;
+}
+.counters{
+
+}
+.characterCounter{
+
+}
+h1{
+    color: aliceblue;
+}
+#characterCount{
+    color: white;
+    font-size: 30px;
+    font-weight: 900;
+}
+.wordsCounter{
+}
+#wordsCounter{
+    color: white;
+    font-size: 30px;
+    font-weight: 900;
+}
+#content{
+    width: 700px;
+    height: 500px;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 10px 5px 10px 5px rgba(0,0,0,0.9);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
